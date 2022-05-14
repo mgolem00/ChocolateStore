@@ -1,0 +1,124 @@
+{
+    "id": 1,
+    "name": "Dorina",
+    "yearFounded": 1996,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHAwtB-k1nq71NpSn2cfb4axFZ8m5AfcffQ&usqp=CAU",
+    "desc": "Vrhunske Kraševe čokolade, uvijek su bile sinonim za kvalitetu kojoj se neupitno vjeruje, a novo ime i novi vizualni identitet dobile su još 1996. godine, kada je predstavljena Dorina. Višestruko nagrađivana raznim priznanjima od strane potrošača, svake godine iznova potvrđuje svoju kvalitetu i opravdava povjerenje. Dorininih 20-ak okusa pravi je izazov za sladokusce, ali i trenutak sreće za sve one koji teško uhvate malo vremena za dnevni užitak i opuštanje.",
+    "items": [
+        {
+            "item_id": "1_1",
+            "item_name": "Dorina čokolada mliječna",
+            "weight": 80,
+            "price": 7,
+            "carbs": 56,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/66mSedmZf4Zkbvj1bbJ4GcWy/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "1_2",
+            "item_name": "Dorina čokolada riža",
+            "weight": 75,
+            "price": 7,
+            "carbs": 59,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/3JSvwCSrv3ZeCyv8CcHsMezK/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "1_3",
+            "item_name": "Dorina čokolada lješnjak",
+            "weight": 80,
+            "price": 7,
+            "carbs": 51,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/BCiEfQZjSBWF4Lbk3hJHkE5W/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        }
+    ]
+}
+{
+    "id": 2,
+    "name": "Milka",
+    "yearFounded": 1901,
+    "logo": "https://www.milka.hr/-/media/Project/Brands/Milka/cz/Logo/Milkalogopurple.png?h=116&w=240&hash=0F54106A257F40C38004057CAACD6D59",
+    "desc": "Tajna jedinstvenog Milka okusa krije se u našem imenu (MILch i KAkao na njemačkome). Ono odražava našu posvećenost upotrebi samo najkvalitetnijih sastojaka za pripremu. Milka mliječna čokolada s alpskim mlijekom najnježnija je čokolada u svakom smislu, od načina na koji se topi u ustima do načina na koji topi srca svih koji je kušaju.",
+    "items": [
+        {
+            "item_id": "2_1",
+            "item_name": "Milka čokolada jagoda",
+            "weight": 100,
+            "price": 9,
+            "carbs": 57,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/kUDFn1tdPkZ1sH26ccYr8rsY/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "2_2",
+            "item_name": "Milka čokolada oreo",
+            "weight": 100,
+            "price": 9,
+            "carbs": 55,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/dcPEz8966j1ooV7TdNPAsLK2/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "2_3",
+            "item_name": "Milka bijela čokolada",
+            "weight": 100,
+            "price": 9,
+            "carbs": 65,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/j27C5eJXVQFQQKimoZMwRVGn/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        }
+    ]
+}
+{
+    "id": 3,
+    "name": "Zvečevo",
+    "yearFounded": 1921,
+    "logo": "http://www.zvecevo.hr/wp-content/uploads/2012/09/zvecevo-logo1.png",
+    "desc": "S ljubavlju smo birali najkvalitetnije sastojke, umiješane i zgotovljene rukama naših najboljih majstora, upakirane s posebnom pažnjom, a sve kako bismo uljepšali vaše dane. Zavirite u naš svijet i počastite se našim čarobnim slasticama!",
+    "items": [
+        {
+            "item_id": "3_1",
+            "item_name": "Braco mliječna čokolada",
+            "weight": 75,
+            "price": 7,
+            "carbs": 61,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/SknJYNTGHfNehtBs4SXusGUC/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "3_2",
+            "item_name": "Seka mliječna čokolada",
+            "weight": 75,
+            "price": 7,
+            "carbs": 61,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/ExrarWpSsCn4apkp4k8W1SnY/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        }
+    ]
+}
+{
+    "id": 4,
+    "name": "Kandit",
+    "yearFounded": 1920,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Kandit_09084.jpg/220px-Logo_Kandit_09084.jpg",
+    "desc": "Kandit je kroz svoju povijest imao širok asortiman proizvoda koji se prilagođavao željama i potrebama potrošača, dok su neki postali konstanta i sinonim imena, kvalitete i okusa Kandita, poput bombona Mentol  Zeleni, Čokolada za kuhanje i Rum pločica. U najnovije vrijeme lansiranje novih proizvoda ispisuje još jednu uspješnu stranicu Kanditove antologije.",
+    "items": [
+        {
+            "item_id": "4_1",
+            "item_name": "Kandi Dado mliječna čokolada",
+            "weight": 90,
+            "price": 5,
+            "carbs": 56,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/H5NAs66Sjrx9dzYX1G9eSKPc/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "4_2",
+            "item_name": "Kandi Confettino Galaxy mliječna čokolada",
+            "weight": 100,
+            "price": 5,
+            "carbs": 59,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/XxHhNziE2zkrQyohRNU4cx3H/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        },
+        {
+            "item_id": "4_3",
+            "item_name": "Kandi Nugasso Champion mliječna čokolada",
+            "weight": 90,
+            "price": 5,
+            "carbs": 52,
+            "picture": "https://d17zv3ray5yxvp.cloudfront.net/variants/dUEfLSiTyG71srh3AQdnoktm/57ed05bea98bceae5f0eaada26b69cee6c61471d3030f7123d212844a35eba04"
+        }
+    ]
+}
